@@ -30,7 +30,7 @@ Este projeto visa:
 > **Metodologia:** _Ágil SCRUM_  
 > :pushpin: **Status do Projeto:** Concluído ✅
 
-### :clapper: Funcionalidades
+## :clapper: Funcionalidades
 
 <details>
   <summary><strong>Usuário Administrador</strong></summary>
@@ -51,6 +51,77 @@ Este projeto visa:
   - Acesso aos conteúdos  
     <img src="readme/Conteudo.gif">
 </details>
+
+🔝 [Voltar ao topo](#topo)
+
+---
+
+## :dart: User Stories <span id="backlogs"></span>
+
+<details>
+  <summary>Requisitos Funcionais</summary>
+  
+<div align="center">
+
+![requisitos funcionais](readme/funcionais.png)
+
+</div>
+
+</details>
+
+<details>
+  <summary>Requisitos Não Funcionais</summary>
+  
+<div align="center">
+
+![requisitos não funcionais](readme/rnf.png)
+
+</div>
+
+</details>
+
+<details>
+  <summary>User Stories</summary>
+  
+<div align="center">
+
+![user stories](readme/userStory.png)
+
+</div>
+
+</details>
+
+🔝 [Voltar ao topo](#topo)
+
+---
+
+## :desktop_computer: Protótipo & Documentação <span id="prototipo"></span>
+
+### 🔗 Links Gerais:
+
+- **Documentação do software:** [Clique aqui](readme/documentacao.pdf)
+- **Navegação pelo site:** [Clique aqui](https://4sem-capitech-front.vercel.app/)
+- **Repositório Front-End:** [Clique aqui](https://github.com/CapitechDev/Capitech-front)
+- **Repositório Back-End:** [Clique aqui](https://github.com/CapitechDev/Capitech-back)
+- **Figma:** [Clique aqui](https://www.figma.com/file/FnzEv4aPYWLKyNBSckPGTA?locale=en&type=design)
+- **Documentação da API:** [Clique aqui](readme/docAPI.md)
+- **Documentação de IHC:** [Clique aqui](readme/ihcDoc.pdf)
+
+🔝 [Voltar ao topo](#topo)
+
+---
+
+## 🛠️ Tecnologias <span id="tecnologias"></span>
+
+Ferramentas e tecnologias utilizadas no projeto:
+
+![Figma](https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C)  ![HTML5](https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26)  
+![CSS3](https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6)  ![React](https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933)  ![MongoDB](https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)  ![Discord](https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA)  ![GitHub](https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Atomic Design](https://img.shields.io/badge/Atomic_Design-%2300B4D8?style=flat&logo=html5&logoColor=white)
 
 🔝 [Voltar ao topo](#topo)
 
@@ -80,51 +151,6 @@ Para que o versionamento seja efetivo através do Git Flow, usamos os padrões:
 | `BREAKING CHANGE` | Para alterações Major |
 | `feat`            | Para alterações Minor |
 | `fix`             | Para alterações Patch |
-
-🔝 [Voltar ao topo](#topo)
-
----
-
-## :dart: User Stories <span id="backlogs"></span>
-
-<div align="center">
-
-![requisitos funcionais](readme/funcionais.png)  
-![requisitos não funcionais](readme/rnf.png)  
-![user stories](readme/userStory.png)
-
-</div>
-
-🔝 [Voltar ao topo](#topo)
-
----
-
-## :desktop_computer: Protótipo & Documentação <span id="prototipo"></span>
-
-### 🔗 Links Gerais:
-
-- **Documentação do software:** [Clique aqui](readme/documentacao.pdf)
-- **Navegação pelo site:** [Clique aqui](https://capitech-front-final.vercel.app/)
-- **Repositório Front-End:** [Clique aqui](https://github.com/CapitechDev/Capitech-front)
-- **Repositório Back-End:** [Clique aqui](https://github.com/CapitechDev/Capitech-back)
-- **Figma:** [Clique aqui](https://www.figma.com/file/FnzEv4aPYWLKyNBSckPGTA?locale=en&type=design)
-- **Documentação da API:** [Clique aqui](readme/docAPI.md)
-- **Documentação de IHC:** [Clique aqui](readme/ihcDoc.pdf)
-
-🔝 [Voltar ao topo](#topo)
-
----
-
-## 🛠️ Tecnologias <span id="tecnologias"></span>
-
-Ferramentas e tecnologias utilizadas no projeto:
-
-![Figma](https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C)  ![HTML5](https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26)  
-![CSS3](https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6)  ![React](https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933)  ![MongoDB](https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)  ![Discord](https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA)  ![GitHub](https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
 
 🔝 [Voltar ao topo](#topo)
 
